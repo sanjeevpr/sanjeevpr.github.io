@@ -5,7 +5,7 @@ description:
 
 baseurl: / #name of GitHub repository
 url: "https://sanjeevpr.github.io" #custom url to be used instead of GitHub repository
-email: #
+email: sanjiv.pradhan94@gmail.com
 
 
 highlighter: rouge
@@ -17,12 +17,9 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-facebook: "#"
-twitter: "#"
-linkedin: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
+twitter: "https://twitter.com/Sanjeev_Pradhan"
+linkedin: "https://in.linkedin.com/in/sanjiv-pradhan"
+github: "https://github.com/sanjeevpr"
 
 highlighter: rouge
 markdown: kramdown

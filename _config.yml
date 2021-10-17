@@ -1,62 +1,67 @@
-### your site title here
+# Site settings
+title_left    : "Vicintaya"
+title_right   : "" # default: ""
+description   : "Just Another Blog"
+keywords      : "tech, blog, developer"
+url           : https://sanjeevpr.github.io # site url
+baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
+cover         : "" # image uri like logo/cover image for site seo
 
-title: Just Another Blogger
-description: 
+google_analytics  : UA-XXXXX-XX
+twitter_username  : "Sanjeev_Pradhan"
+comments_enabled  : false # if enabled (set to true), please provide your disqus_username
+disqus_shortname  : ""
+postshare_enabled : true
 
-baseurl: / #name of GitHub repository
-url: "https://sanjeevpr.github.io" #custom url to be used instead of GitHub repository
-email: sanjiv.pradhan94@gmail.com
-
-
-highlighter: rouge
-markdown: kramdown
-
-# Pagination
-paginate: 4
-permalink: /blog/:year/:title/
-paginate_path: /blog/page:num/
-
-# Social media links in footer
-twitter: "https://twitter.com/Sanjeev_Pradhan"
+# Social
 linkedin: "https://in.linkedin.com/in/sanjiv-pradhan"
 github: "https://github.com/sanjeevpr"
 
-highlighter: rouge
-markdown: kramdown
+# Build settings
+permalink   : /:year/:title/
+markdown    : kramdown
+highlighter : rouge
 
-# Tracker
-analytics:
+source      : ./
+destination : ./_site
 
-#optimization -> compress.html
-compress_html:
-  clippings: [html,div, p, ul, td, h1, h2, h3, h4,link, meta, footer, nav, img, header, hr, br, head, style, li, ul, ol, time, main, script, title]
-  comments: ["<!-- ", " -->"]
-  endings: [all]
-  ignore:
-    envs: [local]
-  blanklines: false
-  profile: false
-  startings: []
-
-#collection
-collections:
-  projects:
-    output: true
-    permalink: /projects/:path/
-
+# Sass configuration
 sass:
-  sass_dir: /assets/css/_sass
-  style: compressed
+  sass_dir  : assets/scss
+  style     : compressed # expanded
 
-include:
-  - _pages
-
-exclude:
-  - README.md
-  - LICENSE.md
+# Author settings
+author:
+  name     : "Sanjiv Pradhan"
 
 plugins:
-  - jekyll-seo-tag
+  - jekyll-sitemap
+  - bourbon
   - jekyll-paginate
-  - jekyll-email-protect
-  - jekyll-target-blank
+
+# navbar pages
+navbar:
+  - slug : about
+    title: About
+  - slug : blog
+    title: Blog
+
+exclude:
+  - "gulp"
+  - "node_modules"
+  - "bower"
+  - "bower_components"
+  - "config.rb"
+  - "src"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - ".rvmrc"
+  - ".rbenv-version"
+  - "package.json"
+  - "gulpfile.js"
+  - "README.md"
+  - "Rakefile"
+  - "changelog.md"
+  - "script"
+  - "vendor"
+  - "thinkspace.gemspec"

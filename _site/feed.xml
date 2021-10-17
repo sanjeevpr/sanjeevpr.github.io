@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description>Just Another Blog</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 17 Oct 2021 22:59:17 +0530</pubDate>
+    <lastBuildDate>Sun, 17 Oct 2021 22:59:17 +0530</lastBuildDate>
+    <generator>Jekyll v4.0.1</generator>
+    
+      <item>
+        <title>Things To Do During Quarantine</title>
+        <description>&lt;p&gt;The lockdown is not a good place to be in for anyone (* introverts laughing ). We can sleep all day or binge-watch our favorite show on Netflix or play PubG the whole day. The options are many. But ask yourself a question. Will it help you in any way? Are you being productive? What about the extra flat that you always wanted to shed and flaunt your beach body? Or, what about the piano that you always wanted to learn? I have jotted down a few things that you can do to make most of your free time.&lt;/p&gt;
+
+&lt;h2 id=&quot;1-learn-a-new-language&quot;&gt;1. Learn a new language&lt;/h2&gt;
+&lt;p&gt;Though thinking of speaking fluent Japanese or Spanish seems mouth-watering but thinking to learn it is not. But this the time where you can take a Udemy course and learning it. You have all day to practice and clear the basics. To make it legit, you can take certification exams which can help you in your career.&lt;/p&gt;
+
+&lt;h2 id=&quot;2-learn-to-code-or-learn-a-new-technology&quot;&gt;2. Learn to code or learn a new technology&lt;/h2&gt;
+&lt;p&gt;If you want to switch careers or you are a student, learning to code can always pay you dividends.  There is plenty of free stuff out there like freeCodeCamp and many others which can help you to learn how to code. The professionals who want to upgrade their skills can also use this time to learn new technologies and upgrade their skills. BTW, this is my personal favorite.&lt;/p&gt;
+
+&lt;h2 id=&quot;3-prepare-for-job-interviews&quot;&gt;3. Prepare for job interviews&lt;/h2&gt;
+&lt;p&gt;Since you have plenty of time at your disposal, you can prepare for job interviews to land your dream job. Start by updating your resume or CV and updating your online job profiles. Prepare well and land your dream job.&lt;/p&gt;
+
+&lt;h2 id=&quot;4-get-back-to-shape&quot;&gt;4. Get back to shape&lt;/h2&gt;
+&lt;p&gt;If you are like me with a big belly and you are always jealous of looking at others who are fit and confident, then we need to have a talk. Start by simple work out routines at your home. You can do yoga, meditation or intense workouts like Tabata or HIIT. I am personally following Tabata 5 min workout and I do yoga and Pranayam every morning. Also, keep yourself hydrated and eat healthily.&lt;/p&gt;
+
+&lt;h2 id=&quot;5-read-books&quot;&gt;5. Read books&lt;/h2&gt;
+&lt;p&gt;If you are a book worm, then you can skip this tip. But if you are like me for whom the reading book is the last thing that you wanna do, you should at least give it a try. I have started reading books and very soon realized the power it possesses. If your brain is a sword then you need books to sharpen it. Its never too late to start. Don’t miss out on this wonderful thing.&lt;/p&gt;
+
+&lt;h2 id=&quot;6-start-a-blog-or-a-channel&quot;&gt;6. Start a blog or a channel&lt;/h2&gt;
+&lt;p&gt;I am not a very good writer but I have started a blog and started to share what I know. Similarly, you can also start it. Share what you know or what you are good at. Don’t do it for appreciation, but for your own satisfaction. You can also start a YouTube channel.&lt;/p&gt;
+
+&lt;p&gt;You can think and apply your own as well. But, this gives you an idea to get started. Happy quarantine :)&lt;/p&gt;
+</description>
+        <pubDate>Mon, 13 Apr 2020 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2020/things-to-during-quarantine/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/things-to-during-quarantine/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Welcome</title>
+        <description>&lt;p&gt;Today marks a great day for me because I have created this blog. I am have started blogging because I hope that this becomes a great place to for me express my ideas which never sees the light of the day. I don’t want it to be super-complicated, messy, or professional, but simple and elegant. I will mostly be writing about things from technology to life experiences, and things I think that might help others.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-quick-intro-about-myself&quot;&gt;A quick intro about myself:&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;I am a software developer&lt;/li&gt;
+  &lt;li&gt;Have around three years of experience&lt;/li&gt;
+  &lt;li&gt;I am based in India&lt;/li&gt;
+  &lt;li&gt;I am 27 y/o&lt;/li&gt;
+  &lt;li&gt;I love solving problems and I am always curious about how things work the way they work&lt;/li&gt;
+  &lt;li&gt;I love traveling, cooking, playing ukulele and guitar, and jam with my loved ones.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Mon, 20 Jan 2020 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2020/welcome/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/welcome/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

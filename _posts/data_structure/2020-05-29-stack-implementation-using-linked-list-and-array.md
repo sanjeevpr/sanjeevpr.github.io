@@ -55,7 +55,7 @@ We can always ask the client who will be using the Stack API to provide the size
 2. Similarly, we can also halve the size of the array when it is quarter full. 
 The question obviously will be why not halve the size of an array when it is half full, why quarter full? Consider the same scenario above of push-pop-push-pop-push ... when the array is full and each operation takes time proportional to N which can be too expensive.
 
-![Array](https://github.com/sanjeevpr/sanjeevpr.github.io/blob/main/assets/images/algo.png)
+![Array](https://github.com/sanjeevpr/sanjeevpr.github.io/blob/main/assets/images/Algo.png)
 
 ### Resizing
 We can create an array of size 1.

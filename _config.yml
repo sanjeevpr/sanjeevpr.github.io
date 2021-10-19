@@ -1,6 +1,6 @@
 # Site settings
-title_left    : "Vicintaya"
-title_right   : "" # default: ""
+title_left    : "Vi"
+title_right   : "cintaya" # default: ""
 description   : "Just Another Blog"
 keywords      : "tech, blog, developer"
 url           : https://sanjeevpr.github.io # site url

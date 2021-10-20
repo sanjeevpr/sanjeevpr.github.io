@@ -5,9 +5,46 @@
     <description>Just Another Blog</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 19 Oct 2021 22:04:19 +0530</pubDate>
-    <lastBuildDate>Tue, 19 Oct 2021 22:04:19 +0530</lastBuildDate>
+    <pubDate>Thu, 21 Oct 2021 00:13:00 +0530</pubDate>
+    <lastBuildDate>Thu, 21 Oct 2021 00:13:00 +0530</lastBuildDate>
     <generator>Jekyll v4.0.1</generator>
+    
+      <item>
+        <title>Calm Down</title>
+        <description>&lt;p&gt;Though, it feels like we are happier close to our families in the lockdown, but, it is hardly the case. The lockdown is testing the people in the most challenging way. Suddenly, we are bound inside a house, and all our ties are broken. The world outside now seems extremely important. The chaos in the house, work, and other things are becoming a little too much sometimes.
+I am here to suggest a few techniques and tips in which you can help find peace and calm in chaos.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This is not an exhaustive list.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;meditation&quot;&gt;Meditation&lt;/h2&gt;
+&lt;p&gt;I cannot stress enough about the importance of meditation in our mental and physical well-being. The benefits are numerous. You can practice meditation for at least 5-10 minutes a day if you are a beginner, and gradually increase the time as you become accustomed. It will help you to find peace.&lt;/p&gt;
+
+&lt;h2 id=&quot;breathingprayanama&quot;&gt;Breathing/Prayanama&lt;/h2&gt;
+&lt;p&gt;It is the practice in which you focus on your breath. There are at least five Prayanam exercises or practices. You can follow the flow of your ever-present to calm yourself down.&lt;/p&gt;
+
+&lt;h2 id=&quot;exercise-or-yoga&quot;&gt;Exercise or yoga&lt;/h2&gt;
+&lt;p&gt;If you are active and you move your body, that is a win for you. Be active, move, don’t sit for too long, take frequent breaks, etc are a few things you can do. In addition, do workouts or yoga at least once a day. Keep the blood flowing.&lt;/p&gt;
+
+&lt;h2 id=&quot;shutting-down-work&quot;&gt;Shutting down work&lt;/h2&gt;
+&lt;p&gt;Shutting down your work on time and not working after-hours looks easier said than done. People feel that since everyone is home, they can work anytime. Try to go offline by turning off all the notifications from mail and other apps. Set a boundary yourself, if you cannot ask others. Try to find a set time and place for your work during which you are not disturbed.&lt;/p&gt;
+
+&lt;h2 id=&quot;stay-away-from-negativity&quot;&gt;Stay away from negativity&lt;/h2&gt;
+&lt;p&gt;If you are suddenly feeling threatened and you are in constant fear, please stop consuming non-sense that is served so conveniently through various media and social media. Stay away from negative people. Treat your mind as a temple and fill it with positivity. Follow good people on social media, and don’t watch too much news. I have quit social media for almost a year now.&lt;/p&gt;
+
+&lt;h2 id=&quot;you-are-what-you-eat&quot;&gt;You are what you eat&lt;/h2&gt;
+&lt;p&gt;Eat good healthy food. Stay away from packaged and junk food. You also don’t need to go super healthy and start eating super-foods. Don’t complicate things. The simple meal that you have been eating at home will work and doesn’t burn your pockets as well.&lt;/p&gt;
+
+&lt;p&gt;Mental wellbeing is often ignored. But, can change that by apply these things to your life.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 12 Jul 2020 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2020/calm-down/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/calm-down/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Difference between Java's ArrayList set and add Methods</title>

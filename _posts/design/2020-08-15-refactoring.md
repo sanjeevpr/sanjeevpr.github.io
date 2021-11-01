@@ -1,32 +1,51 @@
 ---
 layout: post
-title: "What Does gc_deletes Do?"
-description: "gc_deletes and it's mistery"
+title: "Refactoring: A quick guide"
+description: "A concise guide on refactoring"
 comments: true
-keywords: "elasticsearch, gc_deletes"
+keywords: "refactoring, code"
 ---
 
-In Elasticsearch, we usually index, update and delete documents quiet frequently. But there are few caveats or catches that you need to look out for if you do it frequently and within short intervals of time.
+## What?
+- Systematic way of improving the code without adding new features.
+- Not modifying the external behaviour
+- Transforms mess of a code into clean code with simple design
+- It can be a series of small changes, as the probability of mistakes is less.
 
-## Deletion of a document
-The deletion of a document also updates the version of the document. For example, if the `_version` of the document with the `_id` 1 was 3, after a successful deletion, the `_version` will be incremented to 4. When a document is deleted, it is not deleted immediately, it will be temporarily marked as deleted. At this point, the document won't be searchable. After some amount of time, the Elasticsearch garbage collector collects the documents which are marked as deleted for permanent deletion. If the same document is indexed or updated with the same `_id`, the document will be resurrected and the `_version` will be incremented by 1. This is of course not expected at all. This can lead to some unexpected behaviors. 
+## Why?
+- Make the code cleaner, simpler and reduce complexity
+- Easy to find RC of any bug
+- Easy to add any new functionality or make any further changes
+- Easier to test the code
+- Easier to maintain the code
+- We gain an indepth understanding of code
+- Reduces tech debts
+- More readable and hence becomes self-documenting
 
-## gc_deletes to the rescue
-The time after which the documents are picked up for permanent deletion by the Elasticsearch garbage collector is set in the _settings field called gc_deletes. This is set to 60 seconds by default during the index creation. This can be changed dynamically, after the index creation also using the following query:  
-```javascript
-curl -X PUT "localhost:9200/myindex/_settings?pretty" -H 'Content-Type: application/json' -d'  
-{  
-    "index" : {  
-        "gc_deletes" : 0  
-    }  
-}'  
-```  
+## When?
+- While adding a feature
+- While fixing a bug
+- While code review
 
-Setting it to 0 or 0 sec instructs Elasticsearch GC to immediately pick-up the documents which are marked as deleted. Hence, the subsequent index operation using the same id will be a new document with `_version 1`. You can check the new value in using the _settings API  
-```javascript
-curl -X GET "localhost:9200/myindex/_settings?pretty"
-```
+## How?
+- TDD: Test - Implement - Refactor - Repeat
+- Should be done as part of the development (feature addition/bug fixing/code review).
+- Should be done in smaller chunks, each making the existing code better
+- Should not add new feature or introduce a bug
+- Should pass all the tests
+
+## A Few Techniques
+1. Composing Methods
+- How to write/compose methods
+- Extract methods- Grouping similar code
+- Remove assignment from parameter - Use local variables instead of parameters
+- Inline Methods - Calling a one liner returning boolean - Method can be removed
+
+2. Moving features between classes
+- Move functionalities b/w classes, create new classes
+- Move method - Method is used more in the other class then in its own class - Move the method to its own class - Makes classes internally coherant/eliminate dependency on other class
+- Extract Class - Does multiple things - Make two classes
 
 ## References
-[https://www.elastic.co/blog/versioning](https://www.elastic.co/blog/versioning)
-[https://github.com/elastic/elasticsearch/issues/2166](https://github.com/elastic/elasticsearch/issues/2166])
+[https://refactoring.guru/refactoring](https://refactoring.guru/refactoring)
+[https://martinfowler.com/books/refactoring.html](https://martinfowler.com/books/refactoring.html)

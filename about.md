@@ -5,7 +5,8 @@ permalink: /about/
 ---
 
 ## Introduction
-Hi! I am Sanjiv. I am a software developer (backend) from Bengaluru, India with around 3 years of experience. I specialize in **Java** and have professional experience working with **Spring framework**, and **Elasticsearch**. I also have experience working with **Microservices, JavaScript, Angular,  MySQL, MongoDB, Apache Kafka, Couchbase, Redis, Docker, and Kubernetes**.
+Hi! I am Sanjiv, an inquisitive and driven Software Engineer with 3 years of experience from Bengaluru, India. Previous accomplishments include increasing API performance by 90% and reducing Kafka lag by 100% which led to an increase in the sales volume. An empathetic team player and an innovative creative thinker.
+I specialize in **Java** and have professional experience working with **Spring framework**, and **Elasticsearch**. I also have experience working with **Microservices, JavaScript, Angular, MySQL, MongoDB, Apache Kafka, Couchbase, Redis, Docker, and Kubernetes**.
 
 <div class="divider"></div>
 
@@ -13,27 +14,24 @@ Hi! I am Sanjiv. I am a software developer (backend) from Bengaluru, India with 
 ### ThoughtWorks - Developer Consultant - Bengaluru, India
 #### May 2021 – Present
 #### Role
-I work as a consultant developer for a retail client. My primary role is to improve the performance of the system/service by finding and fixing bottlenecks.
-- API, Apache Kafka and Couchbase query performance improvement for scalability.
-- Developing critical features for an app used by millions of users.
+- Increased API performance by 60% by restructuring the API.
+- Reduced consumer lag in Kafka by 100% by re-engineering the event consumption flow.
 
 ---
 
 ### Zwayam - Software Engineer II -  Bengaluru, India
 #### Nov 2020 – May 2021
 #### Role
-My role is to develop features using clean, quality, and testable code that meets the client's requirements. I was the owner of multiple modules where I need to add/improve new features constantly. These are a few of my contributions done:
-- Rewrote an API that performed 90% faster.
-- Built APIs for searching, filtering, and listing that made the search experience better.
-- Implemented caching for better performance.
-- Improved performance of multiple slow REST APIs by refactoring and following SOLID design principles on the code.
-- Monitoring and troubleshooting Elasticsearch in clusters.
+- Built a new API from scratch that performed 90% faster than the legacy API.
+- Improved the performance of the queries by 90% by implementing database caching.
+- Enhanced user experience by creating facets for filtering jobs by various categories.
+
 
 <div class="divider"></div>
 
 ## Projects
 ### [E-Vote using Blockchain](https://github.com/sanjeevpr/blockchain-election)
-The E-Vote is a Dapp (Decentralized Application) built using the Etherium framework powered by Blockchain Technology.
+Built a decentralized e-voting app that can eliminate voter fraud and reduce the cost of voting.
 
 ---
 
@@ -80,7 +78,7 @@ Majored in IT with Data Structures, Algorithms, Networking, C, C++, Java, and We
 <div class="divider"></div>
 
 ## Additionals
-- [Resume or CV](https://drive.google.com/file/d/1FjexIqyfc9w-Ya4_jWlaanaLY7GHMzra/view?usp=sharing)
+- [Resume or CV](https://docs.google.com/document/d/1YNNhSUqyp7s4xw_UPqIihHj7s8wKI_8xA_3qALMYDlU/edit?usp=sharing)
 - [Email](mailto:sanjiv.pradhan94@gmail.com)
 - [LinkedIn](https://in.linkedin.com/in/sanjiv-pradhan)
 - [GitHub](https://github.com/sanjeevpr)

@@ -5,14 +5,24 @@ permalink: /about/
 ---
 
 ## Introduction
-Hi! I am Sanjiv, an inquisitive and driven Software Engineer with 3 years of experience from Bengaluru, India. Previous accomplishments include increasing API performance by 90% and reducing Kafka lag by 100% which led to an increase in the sales volume. An empathetic team player and an innovative creative thinker.
-I specialize in **Java** and have professional experience working with **Spring framework**, and **Elasticsearch**. I also have experience working with **Microservices, JavaScript, Angular, MySQL, MongoDB, Apache Kafka, Couchbase, Redis, Docker, and Kubernetes**.
+Hi! I am Sanjiv, an inquisitive and driven software engineer with four years of experience from Berlin, Germany. I have helped build scalable and robust software in the finance and retail domains. My previous accomplishments include increasing API performance by 90% and reducing Kafka lag by 100%, which led to increased sales volume.
+
+I specialize in **Java** and have professional experience working with **Apache Kafka, the Spring framework**, and **microservices**. I also have experience working with **Kotlin, Postgres, Elasticsearch, Couchbase, MongoDB, Redis, Docker, and Kubernetes**.
+I am an empathetic team player and an innovative, creative thinker.
 
 <div class="divider"></div>
 
 ## Experience
+### Klar Technologies GmbH - Software Developer - Berlin, Germany
+#### July 2022 – Present
+#### Role
+- Developed an MFA-backed login system that reduced fraud by 30%.
+- Helped build the savings and credit products from scratch.
+
+---
+
 ### ThoughtWorks - Developer Consultant - Bengaluru, India
-#### May 2021 – Present
+#### May 2021 – July 2022
 #### Role
 - Increased API performance by 60% by restructuring the API.
 - Reduced consumer lag in Kafka by 100% by re-engineering the event consumption flow.
@@ -66,7 +76,7 @@ Majored in IT with Data Structures, Algorithms, Networking, C, C++, Java, and We
 - Learning new things from tech, music, science, to art.
 - Traveling to new places and learning new cultures.
 - Cooking
-- Jamming with friends and family.
+- Jamming and singing with friends and family.
 
 <div class="divider"></div>
 
@@ -78,7 +88,7 @@ Majored in IT with Data Structures, Algorithms, Networking, C, C++, Java, and We
 <div class="divider"></div>
 
 ## Additionals
-- [Resume or CV](https://docs.google.com/document/d/1YNNhSUqyp7s4xw_UPqIihHj7s8wKI_8xA_3qALMYDlU/edit?usp=sharing)
+- [Resume or CV](https://drive.google.com/file/d/1lHmjxbglS-Dhyo68phHr3wryRdvZ-DDa/view?usp=sharing)
 - [Email](mailto:sanjiv.pradhan94@gmail.com)
 - [LinkedIn](https://in.linkedin.com/in/sanjiv-pradhan)
 - [GitHub](https://github.com/sanjeevpr)

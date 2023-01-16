@@ -29,8 +29,8 @@ I am an empathetic team player and an innovative, creative thinker.
 
 ---
 
-### Zwayam - Software Engineer II -  Bengaluru, India
-#### Nov 2020 – May 2021
+### Zwayam - Software Development Engineer II -  Bengaluru, India
+#### Mar 2019 – May 2021
 #### Role
 - Built a new API from scratch that performed 90% faster than the legacy API.
 - Improved the performance of the queries by 90% by implementing database caching.

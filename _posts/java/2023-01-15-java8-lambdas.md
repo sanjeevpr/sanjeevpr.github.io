@@ -267,5 +267,5 @@ class Example {
 ```
 
 ### References
-1. [https://www.youtube.com/watch?v=4mmOTCIZI1M&list=PLqq-6Pq4lTTa9YGfyhyW2CqdtW9RtY-I3&index=3&ab_channel=JavaBrains](JavaBrains YouTube Channel)
-2. [https://alvinalexander.com/scala/fp-book/what-is-functional-programming/](alvinalexander.com)
+1. https://www.youtube.com/watch?v=4mmOTCIZI1M&list=PLqq-6Pq4lTTa9YGfyhyW2CqdtW9RtY-I3&index=3&ab_channel=JavaBrains
+2. https://alvinalexander.com/scala/fp-book/what-is-functional-programming/

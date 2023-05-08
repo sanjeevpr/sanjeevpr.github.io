@@ -18,7 +18,7 @@ keywords: "java, stream, lambda, functional programming"
 
 ### Stream Pipeline
 
-To perform computations, stream operations are composed into a stream pipeline.  A pipeline consists of
+To perform computations, stream operations are composed into a stream pipeline. A pipeline consists of
 
 1. Source: is from where the data comes to the stream. Eg. collections, I/O channel, etc.
 2. Zero or more intermediate operations
@@ -34,17 +34,17 @@ The operations that are performed on the stream can of two types
 
 1. **Intermediate**
 
-   These operations return a stream so these can be chained together. Eg. map, filter, sort, etc.
+   These operations return a stream so these can be chained together. Eg. `map`, `filter`, `sort`, etc.
 
-   For large datasets, we should use ParallelStream to leverage multi-threading.
+   For large datasets, we should use `ParallelStream` to leverage multi-threading.
 
 2. **Terminal**
 
-   These operations either return a non-stream value or void. Eg. forEach, collect, reduce, etc.
+   These operations either return a non-stream value or void. Examples,
 
-   - forEach applies the same function to each element in the stream
-   - collect is use to collect the elements to a collection (list, set, map)
-   - reduce are specialise operations to count(), sum(), avg(), min(), max(), summaryStatistics() etc.
+   - `forEach` applies the same function to each element in the stream
+   - `collect` is use to collect the elements to a collection (list, set, map)
+   - `reduce` are specialise operations to `count()`, `sum()`, `avg()`, `min()`, `max()`, `summaryStatistics()` etc.
 
 ### Examples
 

@@ -23,7 +23,7 @@ It is based on the trusted relationship established between the Service Provider
 8. The user is granted access to the service provider
 
 ### Flow Diagram
-![SSO flow diagram](https://github.com/sanjeevpr/sanjeevpr.github.io/blob/main/assets/images/sso.png)
+![SSO flow diagram](https://github.com/sanjeevpr/sanjeevpr.github.io/raw/main/assets/images/sso.png)
 
 ### Reference
 [https://www.onelogin.com/learn/how-single-sign-on-works](https://www.onelogin.com/learn/how-single-sign-on-works)

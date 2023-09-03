@@ -5,10 +5,25 @@ permalink: /about/
 ---
 
 ## Introduction
-Hi! I am Sanjiv, an inquisitive and driven software engineer with four years of experience from Berlin, Germany. I have helped build scalable and robust software in the finance and retail domains. My previous accomplishments include increasing API performance by 90% and reducing Kafka lag by 100%, which led to increased sales volume.
 
-I specialize in **Java** and have professional experience working with **Apache Kafka, the Spring framework**, and **microservices**. I also have experience working with **Kotlin, Postgres, Elasticsearch, Couchbase, MongoDB, Redis, Docker, and Kubernetes**.
-I am an empathetic team player and an innovative, creative thinker.
+Hello there! I'm Sanjiv, a curious and results-driven software engineer based in Berlin, Germany,
+with a solid four-year track record in crafting robust and scalable software solutions. My expertise
+spans the dynamic domains of finance and retail, where I've consistently delivered impactful
+results.
+
+Some of my noteworthy achievements include a 90% boost in API performance and a remarkable 100%
+reduction in Kafka lag, both of which directly contributed to substantial increases in sales volume.
+
+My technical proficiency centers around **Java**, with a strong command of technologies like **Apache
+Kafka**, the **Spring** framework, and **microservices** architecture. I'm not limited to just one tool in the
+toolbox, though. I've also put my skills to the test with Kotlin, Postgres, Elasticsearch,
+Couchbase, MongoDB, Redis, Docker, and Kubernetes.
+
+I consider myself an empathetic team player, always eager to collaborate effectively and foster a
+positive work environment. Beyond that, I thrive as an innovative and creative thinker, consistently
+seeking new and better ways to tackle challenges.
+
+Let's connect and explore exciting opportunities to create impactful software solutions together!
 
 <div class="divider"></div>
 
@@ -17,7 +32,7 @@ I am an empathetic team player and an innovative, creative thinker.
 #### July 2022 – Present
 #### Role
 - Developed an MFA-backed login system that reduced fraud by 30%.
-- Helped build the savings and credit products from scratch.
+- Pivotal role in creating savings and credit products from inception.
 
 ---
 
@@ -33,7 +48,7 @@ I am an empathetic team player and an innovative, creative thinker.
 #### Mar 2019 – May 2021
 #### Role
 - Built a new API from scratch that performed 90% faster than the legacy API.
-- Improved the performance of the queries by 90% by implementing database caching.
+- Achieved 90% query performance improvement with database caching.
 - Enhanced user experience by creating facets for filtering jobs by various categories.
 
 
